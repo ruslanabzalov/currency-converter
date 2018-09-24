@@ -1,0 +1,28 @@
+<resources>
+    <!--Основные строки приложения.-->
+    <string name="app_name">Tinkoff Currency Converter</string>
+
+    <!--ConverterFragment-->
+    <string name="main_activity_title">Тинькофф Конвертер</string>
+
+    <!--fragment_converter.xml-->
+    <string name="convert_from_label">Конвертировать из:</string>
+    <string name="currency_from_text_view_text">Выберите исходную валюту</string>
+    <string name="convert_to_label">Конвертировать в:</string>
+    <string name="currency_to_text_view_text">Выберите нужную валюту</string>
+    <string name="currency_conversion_result_label">Результат:</string>
+    <string name="currency_conversion_result_text_view">71.8379</string>
+    <string name="convert_button_text">Конвертировать</string>
+
+    <!--fragment_converter.xml (Menu)-->
+    <string name="conversions_history">История</string>
+
+    <!--activity_history.xml-->
+    <string name="history_title">История</string>
+
+    <!--CurrenciesFragment-->
+    <string name="currencies_fragment_title">Список валют</string>
+
+    <!--fragment_history.xml-->
+    <string name="history_is_empty">История пуста!</string>
+</resources>
